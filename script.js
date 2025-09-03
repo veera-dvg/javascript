@@ -1,0 +1,11 @@
+let name="jhon";
+const age= 30;
+var city="new york";
+console.log(name, age, city);
+let integer=42;
+let floatnum=3.14;
+let string="hello world";
+let boolean=true;
+let array=[1, 2, 3, 4];
+let object={ key: "value",number: 123};
+console.log(integer, floatnum, string, boolean, array, object);
